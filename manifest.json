@@ -313,5 +313,104 @@
                 ]
             }
         }
+    },
+    "010012101468C000": {
+        "versions": {
+            "1.0.0": {
+                "patches": [
+                    {
+                        "name": "7680x4320",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.0.pchtxt"
+                        ],
+                        "rel_path": "010012101468C000/1.0.0/7680x4320/exefs"
+                    },
+                    {
+                        "name": "120FPS Dynamic",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.0.pchtxt",
+                            "1.0.0v2.pchtxt"
+                        ],
+                        "rel_path": "010012101468C000/1.0.0/120FPS Dynamic/exefs"
+                    },
+                    {
+                        "name": "Improved LODBIAS",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.0.pchtxt"
+                        ],
+                        "rel_path": "010012101468C000/1.0.0/Improved LODBIAS/exefs"
+                    },
+                    {
+                        "name": "6880x2880 21.9 Ultrawide Adjusted HUD",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.0.pchtxt"
+                        ],
+                        "rel_path": "010012101468C000/1.0.0/6880x2880 21.9 Ultrawide Adjusted HUD/exefs"
+                    },
+                    {
+                        "name": "240FPS Dynamic",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.0.pchtxt",
+                            "1.0.0v2.pchtxt"
+                        ],
+                        "rel_path": "010012101468C000/1.0.0/240FPS Dynamic/exefs"
+                    },
+                    {
+                        "name": "3440x1440 21.9 Ultrawide Default HUD",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.0.pchtxt"
+                        ],
+                        "rel_path": "010012101468C000/1.0.0/3440x1440 21.9 Ultrawide Default HUD/exefs"
+                    },
+                    {
+                        "name": "3840x2160",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.0.pchtxt"
+                        ],
+                        "rel_path": "010012101468C000/1.0.0/3840x2160/exefs"
+                    },
+                    {
+                        "name": "1920x1080",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.0.pchtxt"
+                        ],
+                        "rel_path": "010012101468C000/1.0.0/1920x1080/exefs"
+                    },
+                    {
+                        "name": "3440x1440 21.9 Ultrawide Adjusted HUD",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.0.pchtxt"
+                        ],
+                        "rel_path": "010012101468C000/1.0.0/3440x1440 21.9 Ultrawide Adjusted HUD/exefs"
+                    },
+                    {
+                        "name": "2560x1440",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.0.pchtxt"
+                        ],
+                        "rel_path": "010012101468C000/1.0.0/2560x1440/exefs"
+                    },
+                    {
+                        "name": "Unlocked FPS Dynamic",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.0.pchtxt",
+                            "1.0.0v2.pchtxt"
+                        ],
+                        "rel_path": "010012101468C000/1.0.0/Unlocked FPS Dynamic/exefs"
+                    }
+                ]
+            }
+        }
     }
 }
