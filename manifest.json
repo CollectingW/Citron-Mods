@@ -724,5 +724,188 @@
                 ]
             }
         }
+    },
+    "01006A800016E000": {
+        "versions": {
+            "13.0.4": {
+                "patches": [
+                    {
+                        "name": "21.9 Original Camera",
+                        "type": "exefs",
+                        "files": [
+                            "13.0.2.pchtxt",
+                            "13.0.4.pchtxt",
+                            "13.0.3.pchtxt",
+                            "13.0.1.pchtxt"
+                        ],
+                        "rel_path": "01006A800016E000/13.0.4/21.9 Original Camera/exefs"
+                    },
+                    {
+                        "name": "30FPS",
+                        "type": "cheats",
+                        "files": [
+                            "730C2141EEBF9885.txt",
+                            "B9B166DF1DB90BAF.txt",
+                            "3EAE0063B12FD81E.txt",
+                            "CBD5A9B56EA859BA.txt"
+                        ],
+                        "rel_path": "01006A800016E000/13.0.4/30FPS/cheats"
+                    },
+                    {
+                        "name": "30FPS",
+                        "type": "exefs",
+                        "files": [
+                            "13.0.Xv2.pchtxt"
+                        ],
+                        "rel_path": "01006A800016E000/13.0.4/30FPS/exefs"
+                    },
+                    {
+                        "name": "Level of Detail",
+                        "type": "exefs",
+                        "files": [
+                            "13.0.2.pchtxt",
+                            "13.0.4.pchtxt",
+                            "13.0.3.pchtxt"
+                        ],
+                        "rel_path": "01006A800016E000/13.0.4/Level of Detail/exefs"
+                    },
+                    {
+                        "name": "120FPS Definitive Edition",
+                        "type": "exefs",
+                        "files": [
+                            "13.0.2.pchtxt",
+                            "13.0.4.pchtxt",
+                            "13.0.3.pchtxt",
+                            "13.0.Xv2.pchtxt"
+                        ],
+                        "rel_path": "01006A800016E000/13.0.4/120FPS Definitive Edition/exefs"
+                    },
+                    {
+                        "name": "32.9 Ultrawide Camera",
+                        "type": "exefs",
+                        "files": [
+                            "13.0.4.pchtxt",
+                            "13.0.3.pchtxt"
+                        ],
+                        "rel_path": "01006A800016E000/13.0.4/32.9 Ultrawide Camera/exefs"
+                    },
+                    {
+                        "name": "21.9 Ultrawide Camera",
+                        "type": "exefs",
+                        "files": [
+                            "13.0.2.pchtxt",
+                            "13.0.4.pchtxt",
+                            "13.0.3.pchtxt",
+                            "13.0.1.pchtxt"
+                        ],
+                        "rel_path": "01006A800016E000/13.0.4/21.9 Ultrawide Camera/exefs"
+                    },
+                    {
+                        "name": "120FPS",
+                        "type": "cheats",
+                        "files": [
+                            "730C2141EEBF9885.txt",
+                            "B9B166DF1DB90BAF.txt",
+                            "3EAE0063B12FD81E.txt",
+                            "CBD5A9B56EA859BA.txt"
+                        ],
+                        "rel_path": "01006A800016E000/13.0.4/120FPS/cheats"
+                    },
+                    {
+                        "name": "120FPS",
+                        "type": "exefs",
+                        "files": [
+                            "13.0.Xv2.pchtxt"
+                        ],
+                        "rel_path": "01006A800016E000/13.0.4/120FPS/exefs"
+                    },
+                    {
+                        "name": "90FPS",
+                        "type": "cheats",
+                        "files": [
+                            "730C2141EEBF9885.txt",
+                            "B9B166DF1DB90BAF.txt",
+                            "3EAE0063B12FD81E.txt",
+                            "CBD5A9B56EA859BA.txt"
+                        ],
+                        "rel_path": "01006A800016E000/13.0.4/90FPS/cheats"
+                    },
+                    {
+                        "name": "90FPS",
+                        "type": "exefs",
+                        "files": [
+                            "13.0.Xv2.pchtxt"
+                        ],
+                        "rel_path": "01006A800016E000/13.0.4/90FPS/exefs"
+                    },
+                    {
+                        "name": "240FPS",
+                        "type": "cheats",
+                        "files": [
+                            "730C2141EEBF9885.txt",
+                            "B9B166DF1DB90BAF.txt",
+                            "3EAE0063B12FD81E.txt",
+                            "CBD5A9B56EA859BA.txt"
+                        ],
+                        "rel_path": "01006A800016E000/13.0.4/240FPS/cheats"
+                    },
+                    {
+                        "name": "240FPS",
+                        "type": "exefs",
+                        "files": [
+                            "13.0.Xv2.pchtxt"
+                        ],
+                        "rel_path": "01006A800016E000/13.0.4/240FPS/exefs"
+                    },
+                    {
+                        "name": "20.9 Ultrawide Camera",
+                        "type": "exefs",
+                        "files": [
+                            "13.0.4.pchtxt",
+                            "13.0.3.pchtxt"
+                        ],
+                        "rel_path": "01006A800016E000/13.0.4/20.9 Ultrawide Camera/exefs"
+                    },
+                    {
+                        "name": "144FPS",
+                        "type": "cheats",
+                        "files": [
+                            "730C2141EEBF9885.txt",
+                            "B9B166DF1DB90BAF.txt",
+                            "3EAE0063B12FD81E.txt",
+                            "CBD5A9B56EA859BA.txt"
+                        ],
+                        "rel_path": "01006A800016E000/13.0.4/144FPS/cheats"
+                    },
+                    {
+                        "name": "144FPS",
+                        "type": "exefs",
+                        "files": [
+                            "13.0.Xv2.pchtxt"
+                        ],
+                        "rel_path": "01006A800016E000/13.0.4/144FPS/exefs"
+                    },
+                    {
+                        "name": "360FPS",
+                        "type": "cheats",
+                        "files": [
+                            "730C2141EEBF9885.txt",
+                            "B9B166DF1DB90BAF.txt",
+                            "3EAE0063B12FD81E.txt",
+                            "CBD5A9B56EA859BA.txt"
+                        ],
+                        "rel_path": "01006A800016E000/13.0.4/360FPS/cheats"
+                    },
+                    {
+                        "name": "360FPS",
+                        "type": "exefs",
+                        "files": [
+                            "13.0.Xv2.pchtxt"
+                        ],
+                        "rel_path": "01006A800016E000/13.0.4/360FPS/exefs"
+                    }
+                ]
+            }
+        }
     }
 }
