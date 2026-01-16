@@ -121,6 +121,54 @@
             }
         }
     },
+    "01007EF00011E000": {
+        "versions": {
+            "1.6.0": {
+                "patches": [
+                    {
+                        "name": "Disable Dynamic Resolution",
+                        "type": "exefs",
+                        "files": [
+                            "1.6.0.pchtxt"
+                        ],
+                        "rel_path": "01007EF00011E000/1.6.0/Disable Dynamic Resolution/exefs"
+                    },
+                    {
+                        "name": "1920x1080",
+                        "type": "exefs",
+                        "files": [
+                            "1.6.0.pchtxt"
+                        ],
+                        "rel_path": "01007EF00011E000/1.6.0/1920x1080/exefs"
+                    },
+                    {
+                        "name": "Improved Level of Detail",
+                        "type": "exefs",
+                        "files": [
+                            "1.6.0.pchtxt"
+                        ],
+                        "rel_path": "01007EF00011E000/1.6.0/Improved Level of Detail/exefs"
+                    },
+                    {
+                        "name": "21.9 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.6.0.pchtxt"
+                        ],
+                        "rel_path": "01007EF00011E000/1.6.0/21.9 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "2048x1152",
+                        "type": "exefs",
+                        "files": [
+                            "1.6.0.pchtxt"
+                        ],
+                        "rel_path": "01007EF00011E000/1.6.0/2048x1152/exefs"
+                    }
+                ]
+            }
+        }
+    },
     "01008CF01BAAC000": {
         "versions": {
             "1.0.2": {
