@@ -1,0 +1,36 @@
+name: Update Citron Manifest
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'manifest.json' # Don't trigger if the manifest itself changes
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run Manifest Generator
+        run: python scripts/generate_manifest.py
+
+      - name: Commit and Push Manifest
+        run: |
+          git config --global user.name 'Citron-Bot'
+          git config --global user.email 'bot@citron-emu.org'
+          git add manifest.json
+          # Only commit if the manifest actually changed
+          git commit -m "Auto-update manifest.json" || exit 0
+          git push
