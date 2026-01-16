@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths-ignore:
-      - 'manifest.json' # Don't trigger if the manifest itself changes
+      - 'manifest.json'
   workflow_dispatch:
 
 jobs:
@@ -16,7 +16,10 @@ jobs:
 
     steps:
       - name: Checkout Repository
+      # fetch-depth: 0 ensures we have the full history for a clean rebase
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -26,11 +29,8 @@ jobs:
       - name: Run Manifest Generator
         run: python scripts/generate_manifest.py
 
-      - name: Commit and Push Manifest
-        run: |
-          git config --global user.name 'Citron-Bot'
-          git config --global user.email 'bot@citron-emu.org'
-          git add manifest.json
-          # Only commit if the manifest actually changed
-          git commit -m "Auto-update manifest.json" || exit 0
-          git push
+      - name: Auto Commit Manifest
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update manifest.json"
+          file_pattern: 'manifest.json'
