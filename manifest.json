@@ -1,4 +1,260 @@
 {
+    "01008CF01BAAC800": {
+        "versions": {
+            "1.0.2": {
+                "patches": [
+                    {
+                        "name": "Disable DOF-BLUR",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.2.pchtxt"
+                        ],
+                        "rel_path": "01008CF01BAAC800/1.0.2/Disable DOF-BLUR/exefs"
+                    },
+                    {
+                        "name": "Stabilize FPS Potato Version",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.2.pchtxt",
+                            "1.0.Xv2.pchtxt"
+                        ],
+                        "rel_path": "01008CF01BAAC800/1.0.2/Stabilize FPS Potato Version/exefs"
+                    },
+                    {
+                        "name": "32.9 Ultrawide Default HUD",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.2.pchtxt"
+                        ],
+                        "rel_path": "01008CF01BAAC800/1.0.2/32.9 Ultrawide Default HUD/exefs"
+                    },
+                    {
+                        "name": "Level of Detail",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.2.pchtxt"
+                        ],
+                        "rel_path": "01008CF01BAAC800/1.0.2/Level of Detail/exefs"
+                    },
+                    {
+                        "name": "2K Shadow Resolution",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.2.pchtxt"
+                        ],
+                        "rel_path": "01008CF01BAAC800/1.0.2/2K Shadow Resolution/exefs"
+                    },
+                    {
+                        "name": "Stabilize FPS Normal Version",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.2.pchtxt",
+                            "1.0.Xv2.pchtxt"
+                        ],
+                        "rel_path": "01008CF01BAAC800/1.0.2/Stabilize FPS Normal Version/exefs"
+                    },
+                    {
+                        "name": "Reduced Bloom",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.2.pchtxt"
+                        ],
+                        "rel_path": "01008CF01BAAC800/1.0.2/Reduced Bloom/exefs"
+                    },
+                    {
+                        "name": "16.10 SteamDeck Default HUD",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.2.pchtxt"
+                        ],
+                        "rel_path": "01008CF01BAAC800/1.0.2/16.10 SteamDeck Default HUD/exefs"
+                    },
+                    {
+                        "name": "1920x1080",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.2.pchtxt"
+                        ],
+                        "rel_path": "01008CF01BAAC800/1.0.2/1920x1080/exefs"
+                    },
+                    {
+                        "name": "21.9 Ultrawide Default HUD",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.2.pchtxt"
+                        ],
+                        "rel_path": "01008CF01BAAC800/1.0.2/21.9 Ultrawide Default HUD/exefs"
+                    },
+                    {
+                        "name": "20.9 Ultrawide Adjusted HUD",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.2.pchtxt"
+                        ],
+                        "rel_path": "01008CF01BAAC800/1.0.2/20.9 Ultrawide Adjusted HUD/exefs"
+                    },
+                    {
+                        "name": "21.9 Ultrawide Adjusted HUD",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.2.pchtxt"
+                        ],
+                        "rel_path": "01008CF01BAAC800/1.0.2/21.9 Ultrawide Adjusted HUD/exefs"
+                    },
+                    {
+                        "name": "2580x1080 21.9 Ultrawide Adjusted HUD",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.2.pchtxt"
+                        ],
+                        "rel_path": "01008CF01BAAC800/1.0.2/2580x1080 21.9 Ultrawide Adjusted HUD/exefs"
+                    },
+                    {
+                        "name": "Remove Bloom",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.2.pchtxt"
+                        ],
+                        "rel_path": "01008CF01BAAC800/1.0.2/Remove Bloom/exefs"
+                    },
+                    {
+                        "name": "32.9 Ultrawide Adjusted HUD",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.2.pchtxt"
+                        ],
+                        "rel_path": "01008CF01BAAC800/1.0.2/32.9 Ultrawide Adjusted HUD/exefs"
+                    }
+                ]
+            },
+            "1.0.1": {
+                "patches": [
+                    {
+                        "name": "Disable DOF-BLUR",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01008CF01BAAC800/1.0.1/Disable DOF-BLUR/exefs"
+                    },
+                    {
+                        "name": "Stabilize FPS Potato Version",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt",
+                            "1.0.Xv2.pchtxt"
+                        ],
+                        "rel_path": "01008CF01BAAC800/1.0.1/Stabilize FPS Potato Version/exefs"
+                    },
+                    {
+                        "name": "32.9 Ultrawide Default HUD",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01008CF01BAAC800/1.0.1/32.9 Ultrawide Default HUD/exefs"
+                    },
+                    {
+                        "name": "Level of Detail",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01008CF01BAAC800/1.0.1/Level of Detail/exefs"
+                    },
+                    {
+                        "name": "2K Shadow Resolution",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01008CF01BAAC800/1.0.1/2K Shadow Resolution/exefs"
+                    },
+                    {
+                        "name": "Stabilize FPS Normal Version",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt",
+                            "1.0.Xv2.pchtxt"
+                        ],
+                        "rel_path": "01008CF01BAAC800/1.0.1/Stabilize FPS Normal Version/exefs"
+                    },
+                    {
+                        "name": "Reduced Bloom",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01008CF01BAAC800/1.0.1/Reduced Bloom/exefs"
+                    },
+                    {
+                        "name": "16.10 SteamDeck Default HUD",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01008CF01BAAC800/1.0.1/16.10 SteamDeck Default HUD/exefs"
+                    },
+                    {
+                        "name": "1920x1080",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01008CF01BAAC800/1.0.1/1920x1080/exefs"
+                    },
+                    {
+                        "name": "21.9 Ultrawide Default HUD",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01008CF01BAAC800/1.0.1/21.9 Ultrawide Default HUD/exefs"
+                    },
+                    {
+                        "name": "20.9 Ultrawide Adjusted HUD",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01008CF01BAAC800/1.0.1/20.9 Ultrawide Adjusted HUD/exefs"
+                    },
+                    {
+                        "name": "21.9 Ultrawide Adjusted HUD",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01008CF01BAAC800/1.0.1/21.9 Ultrawide Adjusted HUD/exefs"
+                    },
+                    {
+                        "name": "2580x1080 21.9 Ultrawide Adjusted HUD",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01008CF01BAAC800/1.0.1/2580x1080 21.9 Ultrawide Adjusted HUD/exefs"
+                    },
+                    {
+                        "name": "Remove Bloom",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01008CF01BAAC800/1.0.1/Remove Bloom/exefs"
+                    },
+                    {
+                        "name": "32.9 Ultrawide Adjusted HUD",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01008CF01BAAC800/1.0.1/32.9 Ultrawide Adjusted HUD/exefs"
+                    }
+                ]
+            }
+        }
+    },
     "010019A01E2F2000": {
         "versions": {
             "1.1.0": {
