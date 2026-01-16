@@ -5,6 +5,14 @@
                 "patches": [
                     {
                         "name": "7680x4320",
+                        "type": "cheats",
+                        "files": [
+                            "8275FBE1EC5191C2.txt"
+                        ],
+                        "rel_path": "010019A01E2F2000/1.1.0/7680x4320/cheats"
+                    },
+                    {
+                        "name": "7680x4320",
                         "type": "exefs",
                         "files": [
                             "1.1.0.pchtxt"
@@ -30,11 +38,27 @@
                     },
                     {
                         "name": "3440x1440 Ultrawide",
+                        "type": "cheats",
+                        "files": [
+                            "8275FBE1EC5191C2.txt"
+                        ],
+                        "rel_path": "010019A01E2F2000/1.1.0/3440x1440 Ultrawide/cheats"
+                    },
+                    {
+                        "name": "3440x1440 Ultrawide",
                         "type": "exefs",
                         "files": [
                             "1.1.0.pchtxt"
                         ],
                         "rel_path": "010019A01E2F2000/1.1.0/3440x1440 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "6880x2880 Ultrawide",
+                        "type": "cheats",
+                        "files": [
+                            "8275FBE1EC5191C2.txt"
+                        ],
+                        "rel_path": "010019A01E2F2000/1.1.0/6880x2880 Ultrawide/cheats"
                     },
                     {
                         "name": "6880x2880 Ultrawide",
@@ -63,11 +87,27 @@
                     },
                     {
                         "name": "3840x2160",
+                        "type": "cheats",
+                        "files": [
+                            "8275FBE1EC5191C2.txt"
+                        ],
+                        "rel_path": "010019A01E2F2000/1.1.0/3840x2160/cheats"
+                    },
+                    {
+                        "name": "3840x2160",
                         "type": "exefs",
                         "files": [
                             "1.1.0.pchtxt"
                         ],
                         "rel_path": "010019A01E2F2000/1.1.0/3840x2160/exefs"
+                    },
+                    {
+                        "name": "1920x1080",
+                        "type": "cheats",
+                        "files": [
+                            "8275FBE1EC5191C2.txt"
+                        ],
+                        "rel_path": "010019A01E2F2000/1.1.0/1920x1080/cheats"
                     },
                     {
                         "name": "1920x1080",
