@@ -725,6 +725,111 @@
             }
         }
     },
+    "01002B00111A2000": {
+        "versions": {
+            "1.3.0": {
+                "patches": [
+                    {
+                        "name": "60 FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.3.0.pchtxt",
+                            "1.3.0v2.pchtxt"
+                        ],
+                        "rel_path": "01002B00111A2000/1.3.0/60 FPS/exefs"
+                    },
+                    {
+                        "name": "Disable FXAA",
+                        "type": "exefs",
+                        "files": [
+                            "1.3.0.pchtxt"
+                        ],
+                        "rel_path": "01002B00111A2000/1.3.0/Disable FXAA/exefs"
+                    },
+                    {
+                        "name": "1280x720",
+                        "type": "exefs",
+                        "files": [
+                            "1.3.0.pchtxt"
+                        ],
+                        "rel_path": "01002B00111A2000/1.3.0/1280x720/exefs"
+                    },
+                    {
+                        "name": "Increase FOV",
+                        "type": "cheats",
+                        "files": [
+                            "C3CF52BF2B05D731.txt"
+                        ],
+                        "rel_path": "01002B00111A2000/1.3.0/Increase FOV/cheats"
+                    },
+                    {
+                        "name": "Increase FOV",
+                        "type": "exefs",
+                        "files": [
+                            "1.3.0.pchtxt"
+                        ],
+                        "rel_path": "01002B00111A2000/1.3.0/Increase FOV/exefs"
+                    },
+                    {
+                        "name": "1920x1080",
+                        "type": "exefs",
+                        "files": [
+                            "1.3.0.pchtxt"
+                        ],
+                        "rel_path": "01002B00111A2000/1.3.0/1920x1080/exefs"
+                    },
+                    {
+                        "name": "Remove Dof-Blur",
+                        "type": "exefs",
+                        "files": [
+                            "1.3.0.pchtxt"
+                        ],
+                        "rel_path": "01002B00111A2000/1.3.0/Remove Dof-Blur/exefs"
+                    },
+                    {
+                        "name": "2560x1440",
+                        "type": "exefs",
+                        "files": [
+                            "1.3.0.pchtxt"
+                        ],
+                        "rel_path": "01002B00111A2000/1.3.0/2560x1440/exefs"
+                    },
+                    {
+                        "name": "Improved Quality",
+                        "type": "exefs",
+                        "files": [
+                            "1.3.0.pchtxt"
+                        ],
+                        "rel_path": "01002B00111A2000/1.3.0/Improved Quality/exefs"
+                    },
+                    {
+                        "name": "21.9 Ultrawide Default HUD",
+                        "type": "cheats",
+                        "files": [
+                            "C3CF52BF2B05D731.txt"
+                        ],
+                        "rel_path": "01002B00111A2000/1.3.0/21.9 Ultrawide Default HUD/cheats"
+                    },
+                    {
+                        "name": "21.9 Ultrawide Default HUD",
+                        "type": "exefs",
+                        "files": [
+                            "1.3.0.pchtxt"
+                        ],
+                        "rel_path": "01002B00111A2000/1.3.0/21.9 Ultrawide Default HUD/exefs"
+                    },
+                    {
+                        "name": "21.9 Ultrawide Adjusted HUD",
+                        "type": "exefs",
+                        "files": [
+                            "1.3.0.pchtxt"
+                        ],
+                        "rel_path": "01002B00111A2000/1.3.0/21.9 Ultrawide Adjusted HUD/exefs"
+                    }
+                ]
+            }
+        }
+    },
     "01006A800016E000": {
         "versions": {
             "13.0.4": {
