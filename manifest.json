@@ -1,6 +1,158 @@
 {
     "0100F43008C44000": {
         "versions": {
+            "1.0.2": {
+                "patches": [
+                    {
+                        "name": "Reduce Bloom",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.2.pchtxt"
+                        ],
+                        "rel_path": "0100F43008C44000/1.0.2/Reduce Bloom/exefs"
+                    },
+                    {
+                        "name": "Static 60 FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.2.pchtxt"
+                        ],
+                        "rel_path": "0100F43008C44000/1.0.2/Static 60 FPS/exefs"
+                    },
+                    {
+                        "name": "Level of Detail",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.2.pchtxt"
+                        ],
+                        "rel_path": "0100F43008C44000/1.0.2/Level of Detail/exefs"
+                    },
+                    {
+                        "name": "Disable FXAA",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.2.pchtxt"
+                        ],
+                        "rel_path": "0100F43008C44000/1.0.2/Disable FXAA/exefs"
+                    },
+                    {
+                        "name": "Dynamic 60 FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.2.pchtxt"
+                        ],
+                        "rel_path": "0100F43008C44000/1.0.2/Dynamic 60 FPS/exefs"
+                    },
+                    {
+                        "name": "Improved FOV",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.2.pchtxt"
+                        ],
+                        "rel_path": "0100F43008C44000/1.0.2/Improved FOV/exefs"
+                    },
+                    {
+                        "name": "21.9 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.2.pchtxt"
+                        ],
+                        "rel_path": "0100F43008C44000/1.0.2/21.9 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "4K Shadows",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.2.pchtxt"
+                        ],
+                        "rel_path": "0100F43008C44000/1.0.2/4K Shadows/exefs"
+                    },
+                    {
+                        "name": "Disable DOF",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.2.pchtxt"
+                        ],
+                        "rel_path": "0100F43008C44000/1.0.2/Disable DOF/exefs"
+                    }
+                ]
+            },
+            "1.0.0 & 1.0.1": {
+                "patches": [
+                    {
+                        "name": "Reduce Bloom",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.0-1.0.1.pchtxt"
+                        ],
+                        "rel_path": "0100F43008C44000/1.0.0 & 1.0.1/Reduce Bloom/exefs"
+                    },
+                    {
+                        "name": "Static 60 FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.0-1.0.1.pchtxt"
+                        ],
+                        "rel_path": "0100F43008C44000/1.0.0 & 1.0.1/Static 60 FPS/exefs"
+                    },
+                    {
+                        "name": "Level of Detail",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.0-1.0.1.pchtxt"
+                        ],
+                        "rel_path": "0100F43008C44000/1.0.0 & 1.0.1/Level of Detail/exefs"
+                    },
+                    {
+                        "name": "Disable FXAA",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.0-1.0.1.pchtxt"
+                        ],
+                        "rel_path": "0100F43008C44000/1.0.0 & 1.0.1/Disable FXAA/exefs"
+                    },
+                    {
+                        "name": "Dynamic 60 FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.0-1.0.1.pchtxt"
+                        ],
+                        "rel_path": "0100F43008C44000/1.0.0 & 1.0.1/Dynamic 60 FPS/exefs"
+                    },
+                    {
+                        "name": "Improved FOV",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.0-1.0.1.pchtxt"
+                        ],
+                        "rel_path": "0100F43008C44000/1.0.0 & 1.0.1/Improved FOV/exefs"
+                    },
+                    {
+                        "name": "21.9 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.0-1.0.1.pchtxt"
+                        ],
+                        "rel_path": "0100F43008C44000/1.0.0 & 1.0.1/21.9 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "4K Shadows",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.0-1.0.1.pchtxt"
+                        ],
+                        "rel_path": "0100F43008C44000/1.0.0 & 1.0.1/4K Shadows/exefs"
+                    },
+                    {
+                        "name": "Disable DOF",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.0-1.0.1.pchtxt"
+                        ],
+                        "rel_path": "0100F43008C44000/1.0.0 & 1.0.1/Disable DOF/exefs"
+                    }
+                ]
+            },
             "2.0.0": {
                 "patches": [
                     {
