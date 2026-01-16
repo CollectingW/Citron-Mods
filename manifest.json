@@ -1,4 +1,86 @@
 {
+    "010019A01E2F2000": {
+        "versions": {
+            "1.1.0": {
+                "patches": [
+                    {
+                        "name": "7680x4320",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.0.pchtxt"
+                        ],
+                        "rel_path": "010019A01E2F2000/1.1.0/7680x4320/exefs"
+                    },
+                    {
+                        "name": "120FPS Dynamic",
+                        "type": "exefs",
+                        "files": [
+                            "v2.pchtxt",
+                            "1.1.0.pchtxt"
+                        ],
+                        "rel_path": "010019A01E2F2000/1.1.0/120FPS Dynamic/exefs"
+                    },
+                    {
+                        "name": "Disable Dynamic Resolution",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.0.pchtxt"
+                        ],
+                        "rel_path": "010019A01E2F2000/1.1.0/Disable Dynamic Resolution/exefs"
+                    },
+                    {
+                        "name": "3440x1440 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.0.pchtxt"
+                        ],
+                        "rel_path": "010019A01E2F2000/1.1.0/3440x1440 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "6880x2880 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.0.pchtxt"
+                        ],
+                        "rel_path": "010019A01E2F2000/1.1.0/6880x2880 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "Level of Detail",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.0.pchtxt"
+                        ],
+                        "rel_path": "010019A01E2F2000/1.1.0/Level of Detail/exefs"
+                    },
+                    {
+                        "name": "240FPS Dynamic",
+                        "type": "exefs",
+                        "files": [
+                            "v2.pchtxt",
+                            "1.1.0.pchtxt"
+                        ],
+                        "rel_path": "010019A01E2F2000/1.1.0/240FPS Dynamic/exefs"
+                    },
+                    {
+                        "name": "3840x2160",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.0.pchtxt"
+                        ],
+                        "rel_path": "010019A01E2F2000/1.1.0/3840x2160/exefs"
+                    },
+                    {
+                        "name": "1920x1080",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.0.pchtxt"
+                        ],
+                        "rel_path": "010019A01E2F2000/1.1.0/1920x1080/exefs"
+                    }
+                ]
+            }
+        }
+    },
     "0100F43008C44000": {
         "versions": {
             "1.0.2": {
