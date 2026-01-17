@@ -123,7 +123,7 @@
     },
     "01007EF00011E000": {
         "versions": {
-            "1.6.0": {
+            "1.6.0 by Fl4sh_": {
                 "patches": [
                     {
                         "name": "Disable Dynamic Resolution",
@@ -131,7 +131,7 @@
                         "files": [
                             "1.6.0.pchtxt"
                         ],
-                        "rel_path": "01007EF00011E000/1.6.0/Disable Dynamic Resolution/exefs"
+                        "rel_path": "01007EF00011E000/1.6.0 by Fl4sh_/Disable Dynamic Resolution/exefs"
                     },
                     {
                         "name": "1920x1080",
@@ -139,7 +139,7 @@
                         "files": [
                             "1.6.0.pchtxt"
                         ],
-                        "rel_path": "01007EF00011E000/1.6.0/1920x1080/exefs"
+                        "rel_path": "01007EF00011E000/1.6.0 by Fl4sh_/1920x1080/exefs"
                     },
                     {
                         "name": "Improved Level of Detail",
@@ -147,7 +147,7 @@
                         "files": [
                             "1.6.0.pchtxt"
                         ],
-                        "rel_path": "01007EF00011E000/1.6.0/Improved Level of Detail/exefs"
+                        "rel_path": "01007EF00011E000/1.6.0 by Fl4sh_/Improved Level of Detail/exefs"
                     },
                     {
                         "name": "21.9 Ultrawide",
@@ -155,7 +155,7 @@
                         "files": [
                             "1.6.0.pchtxt"
                         ],
-                        "rel_path": "01007EF00011E000/1.6.0/21.9 Ultrawide/exefs"
+                        "rel_path": "01007EF00011E000/1.6.0 by Fl4sh_/21.9 Ultrawide/exefs"
                     },
                     {
                         "name": "2048x1152",
@@ -163,7 +163,7 @@
                         "files": [
                             "1.6.0.pchtxt"
                         ],
-                        "rel_path": "01007EF00011E000/1.6.0/2048x1152/exefs"
+                        "rel_path": "01007EF00011E000/1.6.0 by Fl4sh_/2048x1152/exefs"
                     }
                 ]
             }
