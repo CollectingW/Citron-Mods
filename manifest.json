@@ -1270,32 +1270,88 @@
     },
     "0100152000022000": {
         "versions": {
-            "Disable Dynamic Resolution": {
-                "patches": []
-            },
-            "2208x1240": {
-                "patches": []
-            },
-            "Level of Detail": {
-                "patches": []
-            },
-            "20.9 Ultrawide Default HUD NCE [v3.0.5]": {
-                "patches": []
-            },
-            "21.9 Ultrawide Default HUD": {
-                "patches": []
-            },
-            "60FPS Split Screen": {
-                "patches": []
-            },
-            "Disable Dof": {
-                "patches": []
-            },
-            "20.9 Ultrawide Adjusted HUD NCE [v3.0.5]": {
-                "patches": []
-            },
-            "21.9 Ultrawide Adjusted HUD": {
-                "patches": []
+            "3.0.4 & 3.0.5 by Fl4sh_": {
+                "patches": [
+                    {
+                        "name": "Disable Dynamic Resolution",
+                        "type": "exefs",
+                        "files": [
+                            "3.0.4.pchtxt",
+                            "3.0.5.pchtxt"
+                        ],
+                        "rel_path": "0100152000022000/3.0.4 & 3.0.5 by Fl4sh_/Disable Dynamic Resolution/exefs"
+                    },
+                    {
+                        "name": "2208x1240",
+                        "type": "exefs",
+                        "files": [
+                            "3.0.4.pchtxt",
+                            "3.0.5.pchtxt"
+                        ],
+                        "rel_path": "0100152000022000/3.0.4 & 3.0.5 by Fl4sh_/2208x1240/exefs"
+                    },
+                    {
+                        "name": "Level of Detail",
+                        "type": "exefs",
+                        "files": [
+                            "3.0.4.pchtxt",
+                            "3.0.5.pchtxt"
+                        ],
+                        "rel_path": "0100152000022000/3.0.4 & 3.0.5 by Fl4sh_/Level of Detail/exefs"
+                    },
+                    {
+                        "name": "20.9 Ultrawide Default HUD NCE [v3.0.5]",
+                        "type": "exefs",
+                        "files": [
+                            "3.0.5.pchtxt"
+                        ],
+                        "rel_path": "0100152000022000/3.0.4 & 3.0.5 by Fl4sh_/20.9 Ultrawide Default HUD NCE [v3.0.5]/exefs"
+                    },
+                    {
+                        "name": "21.9 Ultrawide Default HUD",
+                        "type": "exefs",
+                        "files": [
+                            "3.0.4.pchtxt",
+                            "3.0.5.pchtxt"
+                        ],
+                        "rel_path": "0100152000022000/3.0.4 & 3.0.5 by Fl4sh_/21.9 Ultrawide Default HUD/exefs"
+                    },
+                    {
+                        "name": "60FPS Split Screen",
+                        "type": "exefs",
+                        "files": [
+                            "3.0.4.pchtxt",
+                            "3.0.5.pchtxt"
+                        ],
+                        "rel_path": "0100152000022000/3.0.4 & 3.0.5 by Fl4sh_/60FPS Split Screen/exefs"
+                    },
+                    {
+                        "name": "Disable Dof",
+                        "type": "exefs",
+                        "files": [
+                            "3.0.4.pchtxt",
+                            "3.0.5.pchtxt"
+                        ],
+                        "rel_path": "0100152000022000/3.0.4 & 3.0.5 by Fl4sh_/Disable Dof/exefs"
+                    },
+                    {
+                        "name": "20.9 Ultrawide Adjusted HUD NCE [v3.0.5]",
+                        "type": "exefs",
+                        "files": [
+                            "3.0.5.pchtxt"
+                        ],
+                        "rel_path": "0100152000022000/3.0.4 & 3.0.5 by Fl4sh_/20.9 Ultrawide Adjusted HUD NCE [v3.0.5]/exefs"
+                    },
+                    {
+                        "name": "21.9 Ultrawide Adjusted HUD",
+                        "type": "exefs",
+                        "files": [
+                            "3.0.4.pchtxt",
+                            "3.0.5.pchtxt"
+                        ],
+                        "rel_path": "0100152000022000/3.0.4 & 3.0.5 by Fl4sh_/21.9 Ultrawide Adjusted HUD/exefs"
+                    }
+                ]
             }
         }
     },
