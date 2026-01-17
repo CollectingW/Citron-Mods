@@ -41,6 +41,39 @@
             }
         }
     },
+    "0100AE00096EA000": {
+        "versions": {
+            "1.0.1 by Fl4sh_": {
+                "patches": [
+                    {
+                        "name": "Level of Detail",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "0100AE00096EA000/1.0.1 by Fl4sh_/Level of Detail/exefs"
+                    },
+                    {
+                        "name": "21.9 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "0100AE00096EA000/1.0.1 by Fl4sh_/21.9 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "60FPS All Areas",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt",
+                            "1.0.1v2.pchtxt"
+                        ],
+                        "rel_path": "0100AE00096EA000/1.0.1 by Fl4sh_/60FPS All Areas/exefs"
+                    }
+                ]
+            }
+        }
+    },
     "01006000040C2000": {
         "versions": {
             "1.0.1 by Fl4sh_": {
@@ -443,6 +476,67 @@
                             "1.0.1.pchtxt"
                         ],
                         "rel_path": "0100453019AA8000/1.0.1 by Fl4sh_/60FPS (60-30FPS Cutscenes)/exefs"
+                    }
+                ]
+            }
+        }
+    },
+    "010093801237C000": {
+        "versions": {
+            "2.1.0": {
+                "patches": [
+                    {
+                        "name": "60FPS [Fix Cutscenes FPS]",
+                        "type": "exefs",
+                        "files": [
+                            "2.1.0v2.pchtxt",
+                            "2.1.0.pchtxt"
+                        ],
+                        "rel_path": "010093801237C000/2.1.0/60FPS [Fix Cutscenes FPS]/exefs"
+                    },
+                    {
+                        "name": "Unlock FPS",
+                        "type": "exefs",
+                        "files": [
+                            "2.1.0v2.pchtxt",
+                            "2.1.0.pchtxt"
+                        ],
+                        "rel_path": "010093801237C000/2.1.0/Unlock FPS/exefs"
+                    },
+                    {
+                        "name": "21.9 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "2.1.0.pchtxt"
+                        ],
+                        "rel_path": "010093801237C000/2.1.0/21.9 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "120FPS",
+                        "type": "exefs",
+                        "files": [
+                            "2.1.0v2.pchtxt",
+                            "2.1.0.pchtxt"
+                        ],
+                        "rel_path": "010093801237C000/2.1.0/120FPS/exefs"
+                    },
+                    {
+                        "name": "240FPS",
+                        "type": "exefs",
+                        "files": [
+                            "2.1.0v2.pchtxt",
+                            "2.1.0.pchtxt"
+                        ],
+                        "rel_path": "010093801237C000/2.1.0/240FPS/exefs"
+                    },
+                    {
+                        "name": "360FPS",
+                        "type": "exefs",
+                        "files": [
+                            "2.1.0v2.pchtxt",
+                            "2.1.0.pchtxt"
+                        ],
+                        "rel_path": "010093801237C000/2.1.0/360FPS/exefs"
                     }
                 ]
             }
@@ -986,6 +1080,79 @@
             }
         }
     },
+    "01002DA013484000": {
+        "versions": {
+            "1.0.1 by Fl4sh_": {
+                "patches": [
+                    {
+                        "name": "30FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01002DA013484000/1.0.1 by Fl4sh_/30FPS/exefs"
+                    },
+                    {
+                        "name": "Level of Detail",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01002DA013484000/1.0.1 by Fl4sh_/Level of Detail/exefs"
+                    },
+                    {
+                        "name": "6880x2880",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01002DA013484000/1.0.1 by Fl4sh_/6880x2880/exefs"
+                    },
+                    {
+                        "name": "3840x2160",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01002DA013484000/1.0.1 by Fl4sh_/3840x2160/exefs"
+                    },
+                    {
+                        "name": "Improved FOV",
+                        "type": "cheats",
+                        "files": [
+                            "5441AF3C89F97E1D.txt"
+                        ],
+                        "rel_path": "01002DA013484000/1.0.1 by Fl4sh_/Improved FOV/cheats"
+                    },
+                    {
+                        "name": "Improved FOV",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01002DA013484000/1.0.1 by Fl4sh_/Improved FOV/exefs"
+                    },
+                    {
+                        "name": "3440x1440",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01002DA013484000/1.0.1 by Fl4sh_/3440x1440/exefs"
+                    },
+                    {
+                        "name": "120FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt",
+                            "1.0.1v2.pchtxt"
+                        ],
+                        "rel_path": "01002DA013484000/1.0.1 by Fl4sh_/120FPS/exefs"
+                    }
+                ]
+            }
+        }
+    },
     "010012101468C000": {
         "versions": {
             "1.0.0 by Fl4sh_": {
@@ -1098,6 +1265,37 @@
                         "rel_path": "010012101468C000/1.0.0 by Fl4sh_/Moon Jump/cheats"
                     }
                 ]
+            }
+        }
+    },
+    "0100152000022000": {
+        "versions": {
+            "Disable Dynamic Resolution": {
+                "patches": []
+            },
+            "2208x1240": {
+                "patches": []
+            },
+            "Level of Detail": {
+                "patches": []
+            },
+            "20.9 Ultrawide Default HUD NCE [v3.0.5]": {
+                "patches": []
+            },
+            "21.9 Ultrawide Default HUD": {
+                "patches": []
+            },
+            "60FPS Split Screen": {
+                "patches": []
+            },
+            "Disable Dof": {
+                "patches": []
+            },
+            "20.9 Ultrawide Adjusted HUD NCE [v3.0.5]": {
+                "patches": []
+            },
+            "21.9 Ultrawide Adjusted HUD": {
+                "patches": []
             }
         }
     },
