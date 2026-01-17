@@ -1,4 +1,103 @@
 {
+    "01006000040C2000": {
+        "versions": {
+            "1.0.1 by Fl4sh_": {
+                "patches": [
+                    {
+                        "name": "3840x2160 Widescreen",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01006000040C2000/1.0.1 by Fl4sh_/3840x2160 Widescreen/exefs"
+                    },
+                    {
+                        "name": "3440x1440 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01006000040C2000/1.0.1 by Fl4sh_/3440x1440 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "Improved Camera Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01006000040C2000/1.0.1 by Fl4sh_/Improved Camera Ultrawide/exefs"
+                    },
+                    {
+                        "name": "60FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01006000040C2000/1.0.1 by Fl4sh_/60FPS/exefs"
+                    },
+                    {
+                        "name": "Improved Camera Widescreen",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01006000040C2000/1.0.1 by Fl4sh_/Improved Camera Widescreen/exefs"
+                    },
+                    {
+                        "name": "120FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt",
+                            "1.0.1v2.pchtxt"
+                        ],
+                        "rel_path": "01006000040C2000/1.0.1 by Fl4sh_/120FPS/exefs"
+                    },
+                    {
+                        "name": "All Smiley Flowers",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01006000040C2000/1.0.1 by Fl4sh_/All Smiley Flowers/exefs"
+                    },
+                    {
+                        "name": "Ultra Quality Mode",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01006000040C2000/1.0.1 by Fl4sh_/Ultra Quality Mode/exefs"
+                    },
+                    {
+                        "name": "1920x1080 Widescreen",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01006000040C2000/1.0.1 by Fl4sh_/1920x1080 Widescreen/exefs"
+                    },
+                    {
+                        "name": "240FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt",
+                            "1.0.1v2.pchtxt"
+                        ],
+                        "rel_path": "01006000040C2000/1.0.1 by Fl4sh_/240FPS/exefs"
+                    },
+                    {
+                        "name": "144FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt",
+                            "1.0.1v2.pchtxt"
+                        ],
+                        "rel_path": "01006000040C2000/1.0.1 by Fl4sh_/144FPS/exefs"
+                    }
+                ]
+            }
+        }
+    },
     "010019A01E2F2000": {
         "versions": {
             "1.1.0 by Fl4sh_": {
@@ -164,6 +263,144 @@
                             "1.6.0.pchtxt"
                         ],
                         "rel_path": "01007EF00011E000/1.6.0 by Fl4sh_/2048x1152/exefs"
+                    }
+                ]
+            }
+        }
+    },
+    "0100453019AA8000": {
+        "versions": {
+            "1.0.1 by Fl4sh_": {
+                "patches": [
+                    {
+                        "name": "5120x1440 32.9 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "0100453019AA8000/1.0.1 by Fl4sh_/5120x1440 32.9 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "2580x1080 21.9 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "0100453019AA8000/1.0.1 by Fl4sh_/2580x1080 21.9 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "3440x1440 21.9 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "0100453019AA8000/1.0.1 by Fl4sh_/3440x1440 21.9 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "60FPS (30FPS Cutscenes)",
+                        "type": "cheats",
+                        "files": [
+                            "3F2425864CF22684.txt"
+                        ],
+                        "rel_path": "0100453019AA8000/1.0.1 by Fl4sh_/60FPS (30FPS Cutscenes)/cheats"
+                    },
+                    {
+                        "name": "60FPS (30FPS Cutscenes)",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "0100453019AA8000/1.0.1 by Fl4sh_/60FPS (30FPS Cutscenes)/exefs"
+                    },
+                    {
+                        "name": "Level of Detail",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "0100453019AA8000/1.0.1 by Fl4sh_/Level of Detail/exefs"
+                    },
+                    {
+                        "name": "Dynamic FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt",
+                            "v2.pchtxt"
+                        ],
+                        "rel_path": "0100453019AA8000/1.0.1 by Fl4sh_/Dynamic FPS/exefs"
+                    },
+                    {
+                        "name": "3840x2160",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "0100453019AA8000/1.0.1 by Fl4sh_/3840x2160/exefs"
+                    },
+                    {
+                        "name": "5160x2160 21.9 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "0100453019AA8000/1.0.1 by Fl4sh_/5160x2160 21.9 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "3840x1080 32.9 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "0100453019AA8000/1.0.1 by Fl4sh_/3840x1080 32.9 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "60FPS Static",
+                        "type": "cheats",
+                        "files": [
+                            "3F2425864CF22684.txt"
+                        ],
+                        "rel_path": "0100453019AA8000/1.0.1 by Fl4sh_/60FPS Static/cheats"
+                    },
+                    {
+                        "name": "60FPS Static",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt",
+                            "v2.pchtxt"
+                        ],
+                        "rel_path": "0100453019AA8000/1.0.1 by Fl4sh_/60FPS Static/exefs"
+                    },
+                    {
+                        "name": "2560x1440",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "0100453019AA8000/1.0.1 by Fl4sh_/2560x1440/exefs"
+                    },
+                    {
+                        "name": "1280x800",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "0100453019AA8000/1.0.1 by Fl4sh_/1280x800/exefs"
+                    },
+                    {
+                        "name": "60FPS (60-30FPS Cutscenes)",
+                        "type": "cheats",
+                        "files": [
+                            "3F2425864CF22684.txt"
+                        ],
+                        "rel_path": "0100453019AA8000/1.0.1 by Fl4sh_/60FPS (60-30FPS Cutscenes)/cheats"
+                    },
+                    {
+                        "name": "60FPS (60-30FPS Cutscenes)",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "0100453019AA8000/1.0.1 by Fl4sh_/60FPS (60-30FPS Cutscenes)/exefs"
                     }
                 ]
             }
@@ -878,6 +1115,102 @@
             }
         }
     },
+    "01003FC01670C000": {
+        "versions": {
+            "1.1.0 by Fl4sh_": {
+                "patches": [
+                    {
+                        "name": "16.10 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.10.pchtxt"
+                        ],
+                        "rel_path": "01003FC01670C000/1.1.0 by Fl4sh_/16.10 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "21.9 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.10.pchtxt"
+                        ],
+                        "rel_path": "01003FC01670C000/1.1.0 by Fl4sh_/21.9 Ultrawide/exefs"
+                    }
+                ]
+            },
+            "1.0.0 by Fl4sh_": {
+                "patches": [
+                    {
+                        "name": "21.9 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.00.pchtxt"
+                        ],
+                        "rel_path": "01003FC01670C000/1.0.0 by Fl4sh_/21.9 Ultrawide/exefs"
+                    }
+                ]
+            }
+        }
+    },
+    "010086C00AF7C000": {
+        "versions": {
+            "2.2.0 by Fl4sh_": {
+                "patches": [
+                    {
+                        "name": "21.9 Ultrawide [HUD Fix]",
+                        "type": "exefs",
+                        "files": [
+                            "2.2.0.pchtxt"
+                        ],
+                        "rel_path": "010086C00AF7C000/2.2.0 by Fl4sh_/21.9 Ultrawide [HUD Fix]/exefs"
+                    },
+                    {
+                        "name": "60FPS",
+                        "type": "exefs",
+                        "files": [
+                            "2.2.0v2.pchtxt",
+                            "2.2.0.pchtxt"
+                        ],
+                        "rel_path": "010086C00AF7C000/2.2.0 by Fl4sh_/60FPS/exefs"
+                    },
+                    {
+                        "name": "21.9 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "2.2.0.pchtxt"
+                        ],
+                        "rel_path": "010086C00AF7C000/2.2.0 by Fl4sh_/21.9 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "120FPS",
+                        "type": "exefs",
+                        "files": [
+                            "2.2.0v2.pchtxt",
+                            "2.2.0.pchtxt"
+                        ],
+                        "rel_path": "010086C00AF7C000/2.2.0 by Fl4sh_/120FPS/exefs"
+                    },
+                    {
+                        "name": "240FPS",
+                        "type": "exefs",
+                        "files": [
+                            "2.2.0v2.pchtxt",
+                            "2.2.0.pchtxt"
+                        ],
+                        "rel_path": "010086C00AF7C000/2.2.0 by Fl4sh_/240FPS/exefs"
+                    },
+                    {
+                        "name": "144FPS",
+                        "type": "exefs",
+                        "files": [
+                            "2.2.0v2.pchtxt",
+                            "2.2.0.pchtxt"
+                        ],
+                        "rel_path": "010086C00AF7C000/2.2.0 by Fl4sh_/144FPS/exefs"
+                    }
+                ]
+            }
+        }
+    },
     "01006A800016E000": {
         "versions": {
             "13.0.1+ by Fl4sh_": {
@@ -1056,6 +1389,62 @@
                             "13.0.Xv2.pchtxt"
                         ],
                         "rel_path": "01006A800016E000/13.0.1+ by Fl4sh_/360FPS/exefs"
+                    }
+                ]
+            }
+        }
+    },
+    "0100000000010000": {
+        "versions": {
+            "1.3.0 by Fl4sh_": {
+                "patches": [
+                    {
+                        "name": "1080P Snapshot Mode",
+                        "type": "exefs",
+                        "files": [
+                            "1.3.0.pchtxt"
+                        ],
+                        "rel_path": "0100000000010000/1.3.0 by Fl4sh_/1080P Snapshot Mode/exefs"
+                    },
+                    {
+                        "name": "32.9 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.3.0.pchtxt"
+                        ],
+                        "rel_path": "0100000000010000/1.3.0 by Fl4sh_/32.9 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "1080P Docked and Disable Dynamic Resolution",
+                        "type": "exefs",
+                        "files": [
+                            "1.3.0.pchtxt"
+                        ],
+                        "rel_path": "0100000000010000/1.3.0 by Fl4sh_/1080P Docked and Disable Dynamic Resolution/exefs"
+                    },
+                    {
+                        "name": "60FPS Snapshot Mode",
+                        "type": "exefs",
+                        "files": [
+                            "1.3.0 v2.pchtxt"
+                        ],
+                        "rel_path": "0100000000010000/1.3.0 by Fl4sh_/60FPS Snapshot Mode/exefs"
+                    },
+                    {
+                        "name": "Improved Level of Detail",
+                        "type": "exefs",
+                        "files": [
+                            "1.3.0.pchtxt"
+                        ],
+                        "rel_path": "0100000000010000/1.3.0 by Fl4sh_/Improved Level of Detail/exefs"
+                    },
+                    {
+                        "name": "21.9 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.3.0.pchtxt"
+                        ],
+                        "rel_path": "0100000000010000/1.3.0 by Fl4sh_/21.9 Ultrawide/exefs"
                     }
                 ]
             }
