@@ -704,6 +704,55 @@
             }
         }
     },
+    "010028600EBDA000": {
+        "versions": {
+            "1.1.0 by Fl4sh_": {
+                "patches": [
+                    {
+                        "name": "120FPS (Double Speed)",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.0v2.pchtxt",
+                            "1.1.0.pchtxt"
+                        ],
+                        "rel_path": "010028600EBDA000/1.1.0 by Fl4sh_/120FPS (Double Speed)/exefs"
+                    },
+                    {
+                        "name": "Level of Detail",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.0.pchtxt"
+                        ],
+                        "rel_path": "010028600EBDA000/1.1.0 by Fl4sh_/Level of Detail/exefs"
+                    },
+                    {
+                        "name": "21.9 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.0.pchtxt"
+                        ],
+                        "rel_path": "010028600EBDA000/1.1.0 by Fl4sh_/21.9 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "Force 60FPS and Disable Dynamic Resolution",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.0.pchtxt"
+                        ],
+                        "rel_path": "010028600EBDA000/1.1.0 by Fl4sh_/Force 60FPS and Disable Dynamic Resolution/exefs"
+                    },
+                    {
+                        "name": "Disable DOF",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.0.pchtxt"
+                        ],
+                        "rel_path": "010028600EBDA000/1.1.0 by Fl4sh_/Disable DOF/exefs"
+                    }
+                ]
+            }
+        }
+    },
     "0100F43008C44000": {
         "versions": {
             "1.0.2 by Fl4sh_": {
@@ -2077,6 +2126,150 @@
                             "1.0.0.pchtxt"
                         ],
                         "rel_path": "010016A00AEC0000/1.0.0 & 1.0.13 by Fl4sh_/21.9 Ultrawide/exefs"
+                    }
+                ]
+            }
+        }
+    },
+    "01006D0017F7A000": {
+        "versions": {
+            "1.0.0 by Fl4sh_": {
+                "patches": [
+                    {
+                        "name": "3440x1440 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.0.pchtxt"
+                        ],
+                        "rel_path": "01006D0017F7A000/1.0.0 by Fl4sh_/3440x1440 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "Level of Detail",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.0.pchtxt"
+                        ],
+                        "rel_path": "01006D0017F7A000/1.0.0 by Fl4sh_/Level of Detail/exefs"
+                    },
+                    {
+                        "name": "60FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.0.pchtxt"
+                        ],
+                        "rel_path": "01006D0017F7A000/1.0.0 by Fl4sh_/60FPS/exefs"
+                    },
+                    {
+                        "name": "3840x2160",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.0.pchtxt"
+                        ],
+                        "rel_path": "01006D0017F7A000/1.0.0 by Fl4sh_/3840x2160/exefs"
+                    },
+                    {
+                        "name": "Speed Hack",
+                        "type": "cheats",
+                        "files": [
+                            "59874C9B530095AC.txt",
+                            "BF0607AC795B593A.txt"
+                        ],
+                        "rel_path": "01006D0017F7A000/1.0.0 by Fl4sh_/Speed Hack/cheats"
+                    },
+                    {
+                        "name": "1920x1080",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.0.pchtxt"
+                        ],
+                        "rel_path": "01006D0017F7A000/1.0.0 by Fl4sh_/1920x1080/exefs"
+                    },
+                    {
+                        "name": "2560x1440",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.0.pchtxt"
+                        ],
+                        "rel_path": "01006D0017F7A000/1.0.0 by Fl4sh_/2560x1440/exefs"
+                    },
+                    {
+                        "name": "120FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.0.pchtxt",
+                            "1.0.xv2.pchtxt"
+                        ],
+                        "rel_path": "01006D0017F7A000/1.0.0 by Fl4sh_/120FPS/exefs"
+                    }
+                ]
+            },
+            "1.0.1 by Fl4sh_": {
+                "patches": [
+                    {
+                        "name": "3440x1440 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01006D0017F7A000/1.0.1 by Fl4sh_/3440x1440 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "Level of Detail",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01006D0017F7A000/1.0.1 by Fl4sh_/Level of Detail/exefs"
+                    },
+                    {
+                        "name": "60FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01006D0017F7A000/1.0.1 by Fl4sh_/60FPS/exefs"
+                    },
+                    {
+                        "name": "3840x2160",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01006D0017F7A000/1.0.1 by Fl4sh_/3840x2160/exefs"
+                    },
+                    {
+                        "name": "Speed Hack",
+                        "type": "cheats",
+                        "files": [
+                            "59874C9B530095AC.txt",
+                            "BF0607AC795B593A.txt"
+                        ],
+                        "rel_path": "01006D0017F7A000/1.0.1 by Fl4sh_/Speed Hack/cheats"
+                    },
+                    {
+                        "name": "1920x1080",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01006D0017F7A000/1.0.1 by Fl4sh_/1920x1080/exefs"
+                    },
+                    {
+                        "name": "2560x1440",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "01006D0017F7A000/1.0.1 by Fl4sh_/2560x1440/exefs"
+                    },
+                    {
+                        "name": "120FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt",
+                            "1.0.xv2.pchtxt"
+                        ],
+                        "rel_path": "01006D0017F7A000/1.0.1 by Fl4sh_/120FPS/exefs"
                     }
                 ]
             }
