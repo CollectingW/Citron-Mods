@@ -1193,6 +1193,92 @@
             }
         }
     },
+    "010015100B514000": {
+        "versions": {
+            "1.0.1 by Fl4sh_": {
+                "patches": [
+                    {
+                        "name": "32.9 Ultrawide",
+                        "type": "cheats",
+                        "files": [
+                            "F91868B88F60D3D5.txt"
+                        ],
+                        "rel_path": "010015100B514000/1.0.1 by Fl4sh_/32.9 Ultrawide/cheats"
+                    },
+                    {
+                        "name": "32.9 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt",
+                            "1.0.0.pchtxt"
+                        ],
+                        "rel_path": "010015100B514000/1.0.1 by Fl4sh_/32.9 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "2K Docked 1080p Handheld",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt",
+                            "1.0.0.pchtxt"
+                        ],
+                        "rel_path": "010015100B514000/1.0.1 by Fl4sh_/2K Docked 1080p Handheld/exefs"
+                    },
+                    {
+                        "name": "Stabilize 60FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt",
+                            "1.0.0.pchtxt",
+                            "1.0.1v2.pchtxt"
+                        ],
+                        "rel_path": "010015100B514000/1.0.1 by Fl4sh_/Stabilize 60FPS/exefs"
+                    },
+                    {
+                        "name": "Sunbaked Palace Desert Fix",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt"
+                        ],
+                        "rel_path": "010015100B514000/1.0.1 by Fl4sh_/Sunbaked Palace Desert Fix/exefs"
+                    },
+                    {
+                        "name": "21.9 Ultrawide",
+                        "type": "cheats",
+                        "files": [
+                            "F91868B88F60D3D5.txt"
+                        ],
+                        "rel_path": "010015100B514000/1.0.1 by Fl4sh_/21.9 Ultrawide/cheats"
+                    },
+                    {
+                        "name": "21.9 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt",
+                            "1.0.0.pchtxt"
+                        ],
+                        "rel_path": "010015100B514000/1.0.1 by Fl4sh_/21.9 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "120FPS",
+                        "type": "cheats",
+                        "files": [
+                            "F91868B88F60D3D5.txt"
+                        ],
+                        "rel_path": "010015100B514000/1.0.1 by Fl4sh_/120FPS/cheats"
+                    },
+                    {
+                        "name": "120FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.1.pchtxt",
+                            "1.0.1v2.pchtxt"
+                        ],
+                        "rel_path": "010015100B514000/1.0.1 by Fl4sh_/120FPS/exefs"
+                    }
+                ]
+            }
+        }
+    },
     "0100FF500E34A000": {
         "versions": {
             "1.1.2 by Fl4sh_": {
