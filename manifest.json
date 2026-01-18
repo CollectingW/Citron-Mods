@@ -1779,7 +1779,7 @@
     },
     "0100FD8022DAA000": {
         "versions": {
-            "1.2.0 by Fl4sh_": {
+            "1.0.0 & 1.2.0 by Fl4sh_": {
                 "patches": [
                     {
                         "name": "21.9 Ultrawide",
@@ -1788,7 +1788,7 @@
                             "1.0.0.pchtxt",
                             "1.2.0.pchtxt"
                         ],
-                        "rel_path": "0100FD8022DAA000/1.2.0 by Fl4sh_/21.9 Ultrawide/exefs"
+                        "rel_path": "0100FD8022DAA000/1.0.0 & 1.2.0 by Fl4sh_/21.9 Ultrawide/exefs"
                     }
                 ]
             }
