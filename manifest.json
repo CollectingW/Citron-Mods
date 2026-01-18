@@ -1915,6 +1915,52 @@
             }
         }
     },
+    "01004AD014BF0000": {
+        "versions": {
+            "1.4.0 by Fl4sh_": {
+                "patches": [
+                    {
+                        "name": "21.9 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.4.0.pchtxt"
+                        ],
+                        "rel_path": "01004AD014BF0000/1.4.0 by Fl4sh_/21.9 Ultrawide/exefs"
+                    }
+                ]
+            },
+            "1.4.1 by Fl4sh_": {
+                "patches": [
+                    {
+                        "name": "60FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.4.1.pchtxt",
+                            "1.4.1v2.pchtxt"
+                        ],
+                        "rel_path": "01004AD014BF0000/1.4.1 by Fl4sh_/60FPS/exefs"
+                    },
+                    {
+                        "name": "21.9 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.4.1.pchtxt"
+                        ],
+                        "rel_path": "01004AD014BF0000/1.4.1 by Fl4sh_/21.9 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "120FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.4.1.pchtxt",
+                            "1.4.1v2.pchtxt"
+                        ],
+                        "rel_path": "01004AD014BF0000/1.4.1 by Fl4sh_/120FPS/exefs"
+                    }
+                ]
+            }
+        }
+    },
     "01006A800016E000": {
         "versions": {
             "13.0.3 by Fl4sh_": {
