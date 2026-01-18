@@ -1460,6 +1460,62 @@
             }
         }
     },
+    "0100000011D90000": {
+        "versions": {
+            "1.3.0 by Fl4sh_": {
+                "patches": [
+                    {
+                        "name": "60 FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.3.0.pchtxt"
+                        ],
+                        "rel_path": "0100000011D90000/1.3.0 by Fl4sh_/60 FPS/exefs"
+                    },
+                    {
+                        "name": "2160P",
+                        "type": "exefs",
+                        "files": [
+                            "1.3.0.pchtxt"
+                        ],
+                        "rel_path": "0100000011D90000/1.3.0 by Fl4sh_/2160P/exefs"
+                    },
+                    {
+                        "name": "1080P",
+                        "type": "exefs",
+                        "files": [
+                            "1.3.0.pchtxt"
+                        ],
+                        "rel_path": "0100000011D90000/1.3.0 by Fl4sh_/1080P/exefs"
+                    },
+                    {
+                        "name": "Uncap FPS",
+                        "type": "exefs",
+                        "files": [
+                            "Uncap.pchtxt"
+                        ],
+                        "rel_path": "0100000011D90000/1.3.0 by Fl4sh_/Uncap FPS/exefs"
+                    },
+                    {
+                        "name": "21.9 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.3.0.pchtxt"
+                        ],
+                        "rel_path": "0100000011D90000/1.3.0 by Fl4sh_/21.9 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "Disable Depth of Field",
+                        "type": "exefs",
+                        "files": [
+                            "1.3.0.pchtxt"
+                        ],
+                        "rel_path": "0100000011D90000/1.3.0 by Fl4sh_/Disable Depth of Field/exefs"
+                    }
+                ]
+            }
+        }
+    },
     "01003FC01670C000": {
         "versions": {
             "1.1.0 by Fl4sh_": {
