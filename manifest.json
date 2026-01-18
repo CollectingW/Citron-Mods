@@ -2078,6 +2078,95 @@
             }
         }
     },
+    "01006FE013472000": {
+        "versions": {
+            "1.1.1 by Fl4sh_": {
+                "patches": [
+                    {
+                        "name": "Level of Detail",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt"
+                        ],
+                        "rel_path": "01006FE013472000/1.1.1 by Fl4sh_/Level of Detail/exefs"
+                    },
+                    {
+                        "name": "3840x2160",
+                        "type": "romfs",
+                        "files": [
+                            "boot.lua"
+                        ],
+                        "rel_path": "01006FE013472000/1.1.1 by Fl4sh_/3840x2160/romfs"
+                    },
+                    {
+                        "name": "3840x2160",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt"
+                        ],
+                        "rel_path": "01006FE013472000/1.1.1 by Fl4sh_/3840x2160/exefs"
+                    },
+                    {
+                        "name": "1920x1080",
+                        "type": "romfs",
+                        "files": [
+                            "boot.lua"
+                        ],
+                        "rel_path": "01006FE013472000/1.1.1 by Fl4sh_/1920x1080/romfs"
+                    },
+                    {
+                        "name": "1920x1080",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt"
+                        ],
+                        "rel_path": "01006FE013472000/1.1.1 by Fl4sh_/1920x1080/exefs"
+                    },
+                    {
+                        "name": "21.9 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt"
+                        ],
+                        "rel_path": "01006FE013472000/1.1.1 by Fl4sh_/21.9 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "2560x1440",
+                        "type": "romfs",
+                        "files": [
+                            "boot.lua"
+                        ],
+                        "rel_path": "01006FE013472000/1.1.1 by Fl4sh_/2560x1440/romfs"
+                    },
+                    {
+                        "name": "2560x1440",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt"
+                        ],
+                        "rel_path": "01006FE013472000/1.1.1 by Fl4sh_/2560x1440/exefs"
+                    },
+                    {
+                        "name": "120FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1v2.pchtxt",
+                            "1.1.1.pchtxt"
+                        ],
+                        "rel_path": "01006FE013472000/1.1.1 by Fl4sh_/120FPS/exefs"
+                    },
+                    {
+                        "name": "Disable Depth of Field",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt"
+                        ],
+                        "rel_path": "01006FE013472000/1.1.1 by Fl4sh_/Disable Depth of Field/exefs"
+                    }
+                ]
+            }
+        }
+    },
     "010015100B514000": {
         "versions": {
             "1.0.1 by Fl4sh_": {
