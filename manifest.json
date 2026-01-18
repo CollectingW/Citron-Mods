@@ -847,6 +847,94 @@
             }
         }
     },
+    "01001F5010DFA000": {
+        "versions": {
+            "1.1.1 by Fl4sh_": {
+                "patches": [
+                    {
+                        "name": "Level of Detail + QOL mods",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt"
+                        ],
+                        "rel_path": "01001F5010DFA000/1.1.1 by Fl4sh_/Level of Detail + QOL mods/exefs"
+                    },
+                    {
+                        "name": "3840x2160 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt"
+                        ],
+                        "rel_path": "01001F5010DFA000/1.1.1 by Fl4sh_/3840x2160 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "60 FPS Static version",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt"
+                        ],
+                        "rel_path": "01001F5010DFA000/1.1.1 by Fl4sh_/60 FPS Static version/exefs"
+                    },
+                    {
+                        "name": "3440x1440 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt"
+                        ],
+                        "rel_path": "01001F5010DFA000/1.1.1 by Fl4sh_/3440x1440 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "1920x1080 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt"
+                        ],
+                        "rel_path": "01001F5010DFA000/1.1.1 by Fl4sh_/1920x1080 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "Dynamic FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt"
+                        ],
+                        "rel_path": "01001F5010DFA000/1.1.1 by Fl4sh_/Dynamic FPS/exefs"
+                    },
+                    {
+                        "name": "3840x2160",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt"
+                        ],
+                        "rel_path": "01001F5010DFA000/1.1.1 by Fl4sh_/3840x2160/exefs"
+                    },
+                    {
+                        "name": "2560x1440 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt"
+                        ],
+                        "rel_path": "01001F5010DFA000/1.1.1 by Fl4sh_/2560x1440 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "3440x1440",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt"
+                        ],
+                        "rel_path": "01001F5010DFA000/1.1.1 by Fl4sh_/3440x1440/exefs"
+                    },
+                    {
+                        "name": "2560x1440",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt"
+                        ],
+                        "rel_path": "01001F5010DFA000/1.1.1 by Fl4sh_/2560x1440/exefs"
+                    }
+                ]
+            }
+        }
+    },
     "0100F43008C44000": {
         "versions": {
             "1.0.2 by Fl4sh_": {
