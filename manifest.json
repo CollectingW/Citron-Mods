@@ -1,4 +1,69 @@
 {
+    "01006E001823C000": {
+        "versions": {
+            "1.12 by Fl4sh_": {
+                "patches": [
+                    {
+                        "name": "3440x1440 Ultrawide Adjusted HUD",
+                        "type": "exefs",
+                        "files": [
+                            "1.12.pchtxt"
+                        ],
+                        "rel_path": "01006E001823C000/1.12 by Fl4sh_/3440x1440 Ultrawide Adjusted HUD/exefs"
+                    },
+                    {
+                        "name": "60 FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.12.pchtxt"
+                        ],
+                        "rel_path": "01006E001823C000/1.12 by Fl4sh_/60 FPS/exefs"
+                    },
+                    {
+                        "name": "3840x2160",
+                        "type": "exefs",
+                        "files": [
+                            "1.12.pchtxt"
+                        ],
+                        "rel_path": "01006E001823C000/1.12 by Fl4sh_/3840x2160/exefs"
+                    },
+                    {
+                        "name": "1920x1080",
+                        "type": "exefs",
+                        "files": [
+                            "1.12.pchtxt"
+                        ],
+                        "rel_path": "01006E001823C000/1.12 by Fl4sh_/1920x1080/exefs"
+                    },
+                    {
+                        "name": "Improved FOV",
+                        "type": "exefs",
+                        "files": [
+                            "1.12.pchtxt"
+                        ],
+                        "rel_path": "01006E001823C000/1.12 by Fl4sh_/Improved FOV/exefs"
+                    },
+                    {
+                        "name": "Improved Level of Detail",
+                        "type": "exefs",
+                        "files": [
+                            "1.12.pchtxt"
+                        ],
+                        "rel_path": "01006E001823C000/1.12 by Fl4sh_/Improved Level of Detail/exefs"
+                    },
+                    {
+                        "name": "120 FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.12.pchtxt",
+                            "v2.pchtxt"
+                        ],
+                        "rel_path": "01006E001823C000/1.12 by Fl4sh_/120 FPS/exefs"
+                    }
+                ]
+            }
+        }
+    },
     "0100E95004038000": {
         "versions": {
             "2.1.0 by Fl4sh_": {
