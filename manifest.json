@@ -483,7 +483,7 @@
     },
     "010093801237C000": {
         "versions": {
-            "2.1.0": {
+            "2.1.0 by Fl4sh_": {
                 "patches": [
                     {
                         "name": "60FPS [Fix Cutscenes FPS]",
@@ -492,7 +492,7 @@
                             "2.1.0v2.pchtxt",
                             "2.1.0.pchtxt"
                         ],
-                        "rel_path": "010093801237C000/2.1.0/60FPS [Fix Cutscenes FPS]/exefs"
+                        "rel_path": "010093801237C000/2.1.0 by Fl4sh_/60FPS [Fix Cutscenes FPS]/exefs"
                     },
                     {
                         "name": "Unlock FPS",
@@ -501,7 +501,7 @@
                             "2.1.0v2.pchtxt",
                             "2.1.0.pchtxt"
                         ],
-                        "rel_path": "010093801237C000/2.1.0/Unlock FPS/exefs"
+                        "rel_path": "010093801237C000/2.1.0 by Fl4sh_/Unlock FPS/exefs"
                     },
                     {
                         "name": "21.9 Ultrawide",
@@ -509,7 +509,7 @@
                         "files": [
                             "2.1.0.pchtxt"
                         ],
-                        "rel_path": "010093801237C000/2.1.0/21.9 Ultrawide/exefs"
+                        "rel_path": "010093801237C000/2.1.0 by Fl4sh_/21.9 Ultrawide/exefs"
                     },
                     {
                         "name": "120FPS",
@@ -518,7 +518,7 @@
                             "2.1.0v2.pchtxt",
                             "2.1.0.pchtxt"
                         ],
-                        "rel_path": "010093801237C000/2.1.0/120FPS/exefs"
+                        "rel_path": "010093801237C000/2.1.0 by Fl4sh_/120FPS/exefs"
                     },
                     {
                         "name": "240FPS",
@@ -527,7 +527,7 @@
                             "2.1.0v2.pchtxt",
                             "2.1.0.pchtxt"
                         ],
-                        "rel_path": "010093801237C000/2.1.0/240FPS/exefs"
+                        "rel_path": "010093801237C000/2.1.0 by Fl4sh_/240FPS/exefs"
                     },
                     {
                         "name": "360FPS",
@@ -536,7 +536,7 @@
                             "2.1.0v2.pchtxt",
                             "2.1.0.pchtxt"
                         ],
-                        "rel_path": "010093801237C000/2.1.0/360FPS/exefs"
+                        "rel_path": "010093801237C000/2.1.0 by Fl4sh_/360FPS/exefs"
                     }
                 ]
             }
