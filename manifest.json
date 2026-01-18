@@ -408,6 +408,23 @@
             }
         }
     },
+    "010099C022B96000": {
+        "versions": {
+            "1.2.0 by Fl4sh_": {
+                "patches": [
+                    {
+                        "name": "21.9 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.0.pchtxt",
+                            "1.2.0.pchtxt"
+                        ],
+                        "rel_path": "010099C022B96000/1.2.0 by Fl4sh_/21.9 Ultrawide/exefs"
+                    }
+                ]
+            }
+        }
+    },
     "01008F701C074000": {
         "versions": {
             "1.1.5 by Fl4sh_": {
@@ -482,6 +499,30 @@
                             "1.1.8v2.pchtxt"
                         ],
                         "rel_path": "01008F701C074000/1.1.8 by Fl4sh_/120FPS/exefs"
+                    }
+                ]
+            }
+        }
+    },
+    "010049900F546003": {
+        "versions": {
+            "Galaxy 1.1.1 by Fl4sh_": {
+                "patches": [
+                    {
+                        "name": "4k Docked",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt"
+                        ],
+                        "rel_path": "010049900F546003/Galaxy 1.1.1 by Fl4sh_/4k Docked/exefs"
+                    },
+                    {
+                        "name": "21.9 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt"
+                        ],
+                        "rel_path": "010049900F546003/Galaxy 1.1.1 by Fl4sh_/21.9 Ultrawide/exefs"
                     }
                 ]
             }
@@ -1560,6 +1601,23 @@
                             "67C9CA1428222752.txt"
                         ],
                         "rel_path": "010012101468C000/1.0.0 by Fl4sh_/Moon Jump/cheats"
+                    }
+                ]
+            }
+        }
+    },
+    "0100FD8022DAA000": {
+        "versions": {
+            "1.2.0 by Fl4sh_": {
+                "patches": [
+                    {
+                        "name": "21.9 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.0.pchtxt",
+                            "1.2.0.pchtxt"
+                        ],
+                        "rel_path": "0100FD8022DAA000/1.2.0 by Fl4sh_/21.9 Ultrawide/exefs"
                     }
                 ]
             }
