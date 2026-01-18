@@ -425,6 +425,177 @@
             }
         }
     },
+    "0100965017338000": {
+        "versions": {
+            "1.1.0 & 1.1.1 by Fl4sh_": {
+                "patches": [
+                    {
+                        "name": "7680x4320",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt",
+                            "1.1.0.pchtxt"
+                        ],
+                        "rel_path": "0100965017338000/1.1.0 & 1.1.1 by Fl4sh_/7680x4320/exefs"
+                    },
+                    {
+                        "name": "Disable Dynamic Resolution",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt",
+                            "1.1.0.pchtxt"
+                        ],
+                        "rel_path": "0100965017338000/1.1.0 & 1.1.1 by Fl4sh_/Disable Dynamic Resolution/exefs"
+                    },
+                    {
+                        "name": "CPU vs CPU",
+                        "type": "cheats",
+                        "files": [
+                            "5A7A58268E5F2148.txt",
+                            "EDBA963A92FA0C68.txt"
+                        ],
+                        "rel_path": "0100965017338000/1.1.0 & 1.1.1 by Fl4sh_/CPU vs CPU/cheats"
+                    },
+                    {
+                        "name": "4K Shadow Resolution",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt",
+                            "1.1.0.pchtxt"
+                        ],
+                        "rel_path": "0100965017338000/1.1.0 & 1.1.1 by Fl4sh_/4K Shadow Resolution/exefs"
+                    },
+                    {
+                        "name": "Disable FXAA",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt",
+                            "1.1.0.pchtxt"
+                        ],
+                        "rel_path": "0100965017338000/1.1.0 & 1.1.1 by Fl4sh_/Disable FXAA/exefs"
+                    },
+                    {
+                        "name": "2K Shadow Resolution",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt",
+                            "1.1.0.pchtxt"
+                        ],
+                        "rel_path": "0100965017338000/1.1.0 & 1.1.1 by Fl4sh_/2K Shadow Resolution/exefs"
+                    },
+                    {
+                        "name": "10320x4320",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt",
+                            "1.1.0.pchtxt"
+                        ],
+                        "rel_path": "0100965017338000/1.1.0 & 1.1.1 by Fl4sh_/10320x4320/exefs"
+                    },
+                    {
+                        "name": "3840x2160",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt",
+                            "1.1.0.pchtxt"
+                        ],
+                        "rel_path": "0100965017338000/1.1.0 & 1.1.1 by Fl4sh_/3840x2160/exefs"
+                    },
+                    {
+                        "name": "1920x1080",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt",
+                            "1.1.0.pchtxt"
+                        ],
+                        "rel_path": "0100965017338000/1.1.0 & 1.1.1 by Fl4sh_/1920x1080/exefs"
+                    },
+                    {
+                        "name": "3440x1440",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt",
+                            "1.1.0.pchtxt"
+                        ],
+                        "rel_path": "0100965017338000/1.1.0 & 1.1.1 by Fl4sh_/3440x1440/exefs"
+                    },
+                    {
+                        "name": "Improved Level of Detail",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt",
+                            "1.1.0.pchtxt"
+                        ],
+                        "rel_path": "0100965017338000/1.1.0 & 1.1.1 by Fl4sh_/Improved Level of Detail/exefs"
+                    },
+                    {
+                        "name": "2560x1440",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt",
+                            "1.1.0.pchtxt"
+                        ],
+                        "rel_path": "0100965017338000/1.1.0 & 1.1.1 by Fl4sh_/2560x1440/exefs"
+                    },
+                    {
+                        "name": "120FPS",
+                        "type": "cheats",
+                        "files": [
+                            "5A7A58268E5F2148.txt",
+                            "EDBA963A92FA0C68.txt"
+                        ],
+                        "rel_path": "0100965017338000/1.1.0 & 1.1.1 by Fl4sh_/120FPS/cheats"
+                    },
+                    {
+                        "name": "120FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.Xv2.pchtxt",
+                            "1.1.1.pchtxt",
+                            "1.1.0.pchtxt"
+                        ],
+                        "rel_path": "0100965017338000/1.1.0 & 1.1.1 by Fl4sh_/120FPS/exefs"
+                    },
+                    {
+                        "name": "8K Shadow Resolution",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt",
+                            "1.1.0.pchtxt"
+                        ],
+                        "rel_path": "0100965017338000/1.1.0 & 1.1.1 by Fl4sh_/8K Shadow Resolution/exefs"
+                    },
+                    {
+                        "name": "21.9 Ultrawide Default HUD",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt",
+                            "1.1.0.pchtxt"
+                        ],
+                        "rel_path": "0100965017338000/1.1.0 & 1.1.1 by Fl4sh_/21.9 Ultrawide Default HUD/exefs"
+                    },
+                    {
+                        "name": "21.9 Ultrawide Adjusted HUD",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt",
+                            "1.1.0.pchtxt"
+                        ],
+                        "rel_path": "0100965017338000/1.1.0 & 1.1.1 by Fl4sh_/21.9 Ultrawide Adjusted HUD/exefs"
+                    },
+                    {
+                        "name": "Disable Depth of Field",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.1.pchtxt",
+                            "1.1.0.pchtxt"
+                        ],
+                        "rel_path": "0100965017338000/1.1.0 & 1.1.1 by Fl4sh_/Disable Depth of Field/exefs"
+                    }
+                ]
+            }
+        }
+    },
     "01008F701C074000": {
         "versions": {
             "1.1.5 by Fl4sh_": {
