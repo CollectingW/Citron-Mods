@@ -408,6 +408,85 @@
             }
         }
     },
+    "01008F701C074000": {
+        "versions": {
+            "1.1.5 by Fl4sh_": {
+                "patches": [
+                    {
+                        "name": "3440x1440 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.5.pchtxt"
+                        ],
+                        "rel_path": "01008F701C074000/1.1.5 by Fl4sh_/3440x1440 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "4K Docked",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.5.pchtxt"
+                        ],
+                        "rel_path": "01008F701C074000/1.1.5 by Fl4sh_/4K Docked/exefs"
+                    },
+                    {
+                        "name": "120FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.5.pchtxt"
+                        ],
+                        "rel_path": "01008F701C074000/1.1.5 by Fl4sh_/120FPS/exefs"
+                    }
+                ]
+            },
+            "1.1.8 by Fl4sh_": {
+                "patches": [
+                    {
+                        "name": "3440x1440 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.8.pchtxt"
+                        ],
+                        "rel_path": "01008F701C074000/1.1.8 by Fl4sh_/3440x1440 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "4K Docked",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.8.pchtxt"
+                        ],
+                        "rel_path": "01008F701C074000/1.1.8 by Fl4sh_/4K Docked/exefs"
+                    },
+                    {
+                        "name": "240 FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.8.pchtxt",
+                            "1.1.8v2.pchtxt"
+                        ],
+                        "rel_path": "01008F701C074000/1.1.8 by Fl4sh_/240 FPS/exefs"
+                    },
+                    {
+                        "name": "144 FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.8.pchtxt",
+                            "1.1.8v2.pchtxt"
+                        ],
+                        "rel_path": "01008F701C074000/1.1.8 by Fl4sh_/144 FPS/exefs"
+                    },
+                    {
+                        "name": "120FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.1.8.pchtxt",
+                            "1.1.8v2.pchtxt"
+                        ],
+                        "rel_path": "01008F701C074000/1.1.8 by Fl4sh_/120FPS/exefs"
+                    }
+                ]
+            }
+        }
+    },
     "0100453019AA8000": {
         "versions": {
             "1.0.1 by Fl4sh_": {
@@ -602,6 +681,71 @@
                             "2.1.0.pchtxt"
                         ],
                         "rel_path": "010093801237C000/2.1.0 by Fl4sh_/360FPS/exefs"
+                    }
+                ]
+            }
+        }
+    },
+    "010040E0116B8000": {
+        "versions": {
+            "1.0.9 by Fl4sh_": {
+                "patches": [
+                    {
+                        "name": "2580x1080 21.9 Ultrawide",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.9.pchtxt"
+                        ],
+                        "rel_path": "010040E0116B8000/1.0.9 by Fl4sh_/2580x1080 21.9 Ultrawide/exefs"
+                    },
+                    {
+                        "name": "60FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.9v2.pchtxt",
+                            "1.0.9.pchtxt"
+                        ],
+                        "rel_path": "010040E0116B8000/1.0.9 by Fl4sh_/60FPS/exefs"
+                    },
+                    {
+                        "name": "1920x1080",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.9.pchtxt"
+                        ],
+                        "rel_path": "010040E0116B8000/1.0.9 by Fl4sh_/1920x1080/exefs"
+                    },
+                    {
+                        "name": "2560x1440",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.9.pchtxt"
+                        ],
+                        "rel_path": "010040E0116B8000/1.0.9 by Fl4sh_/2560x1440/exefs"
+                    },
+                    {
+                        "name": "120FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.9v2.pchtxt"
+                        ],
+                        "rel_path": "010040E0116B8000/1.0.9 by Fl4sh_/120FPS/exefs"
+                    },
+                    {
+                        "name": "240FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.9v2.pchtxt"
+                        ],
+                        "rel_path": "010040E0116B8000/1.0.9 by Fl4sh_/240FPS/exefs"
+                    },
+                    {
+                        "name": "144FPS",
+                        "type": "exefs",
+                        "files": [
+                            "1.0.9v2.pchtxt"
+                        ],
+                        "rel_path": "010040E0116B8000/1.0.9 by Fl4sh_/144FPS/exefs"
                     }
                 ]
             }
